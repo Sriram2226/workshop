@@ -1,3 +1,2 @@
 print("hello")
-ygyug
-hhh
+print("hhhh")
